@@ -22,10 +22,10 @@
   left: 0;
   background: #55c0f3;
   opacity: 1;
-  height: 175px;
+  height: 0px;
   width: 100%;
   transition: height 1.5s ease-in-out;
-  animation: wave 4s infinite linear;
+  animation: wave 3s infinite linear;
 }
 
 svg {
